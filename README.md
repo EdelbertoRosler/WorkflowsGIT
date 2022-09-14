@@ -1,6 +1,6 @@
 # Repositório para treinamento git
 
-####Principais comandos git
+#### Principais comandos git
 
 - `git init` -> iniciar um repositório local
 - `git status` -> verificar o status de monitoramento do git
